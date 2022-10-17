@@ -2,20 +2,4 @@
 ---
 
 @import 'jekyll-theme-cayman';
-@import "{{ site.theme }}";
-.main-content {
-  h2 {
-   color: #358645;
- }
-  h3 {
-   color: #358645;
- }
-  h4 {
-   color: #358645;
- }
-}
-.page-header {
-  background-color: #15925D;
-  background-image: linear-gradient(120deg, #155E92, #15925D);
-}
 
