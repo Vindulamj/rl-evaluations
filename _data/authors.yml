@@ -1,0 +1,20 @@
+- name: Vindula Jayawardana
+  image: assets/faces/vindula.png
+  title: EECS, MIT
+  url: https://vindulamj.github.io/web/
+- name: Catherine Tang
+  image: assets/faces/catherine.png
+  title: EECS, MIT
+  url: https://www.linkedin.com/in/catherine-tang-76699a193/
+- name: Sirui Li
+  image: assets/faces/sirui.png
+  title: IDSS, MIT
+  url: https://idss.mit.edu/staff/sirui-li/
+- name: Dajiang Suo
+  image: assets/faces/dajiang.png
+  title: ME, MIT
+  url: https://www.linkedin.com/in/dajiang-suo-7701a666/
+- name: Cathy Wu
+  image: assets/faces/cathy.png
+  title: CEE and IDSS, MIT
+  url: http://www.wucathy.com/blog/
