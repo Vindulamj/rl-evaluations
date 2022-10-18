@@ -13,7 +13,8 @@ Evaluations of Deep Reinforcement Learning (DRL) methods are an integral part of
 
 #### Shortcomings of Point MDP-based Evaluations
 
-Naturally, traffic signal control should be considered on multiple intersection geometries and vehicle flow levels, hence a family of MDPs. We use 164 unique signalized intersections and report the performance of four DRL methods and two non-RL methods evaluated on all 164 intersections in the following figure.  <br>
+Naturally, traffic signal control should be considered on multiple intersection geometries and vehicle flow levels, hence a family of MDPs. We use 164 unique signalized intersections and report the performance of four DRL methods and two non-RL methods evaluated on all 164 intersections in the following figure. 
+<br><br>
 
 <p align="center">
     <img src="images/example.png" alt="Image"/>
