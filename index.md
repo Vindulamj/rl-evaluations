@@ -13,12 +13,12 @@ Evaluations of Deep Reinforcement Learning (DRL) methods are an integral part of
 
 #### Shortcomings of Point MDP-based Evaluations
 
-Naturally, traffic signal control should be considered on multiple intersection geometries and vehicle flow levels, hence a family of MDPs. We use 164 unique signalized intersections and report the performance of four DRL methods and two non-RL methods evaluated on all 164 intersections in the following figure. 
+Naturally, traffic signal control should be considered on multiple intersection geometries and vehicle flow levels, hence a family of MDPs. We use 164 unique signalized intersections and report the performance of four DRL methods and two non-RL methods evaluated on all 164 intersections in the following figure.  <br>
 
 <p align="center">
     <img src="images/example.png" alt="Image"/>
 </p>
-
+<br>
 Interestingly, we see a significant result change from previously reported results. Although the Fixed time controller is regarded as an underperforming method as per reported performance, we find that under the MDP family-based evaluations, the non-RL Fixed time controller and Max pressure controller perform significantly better than all the four DRL controllers. We note that fine-tuning a non-RL Fixed time controller is simple enough that it does not pose a computational burden and can be done easily, even on a regular computer. While reported performances ranked IPPO as a well-performing model with a normalized score of 0.84, we see that, in fact, it is the lowest-performing method and that the revised normalized score is as high as 1.7 (even cannot outperform an untuned fixed time controller). It is thus clear that point MDP-based evaluations can be misleading and may pose performance benefits that do not generalize to the MDP family. 
 
 ### Citation
