@@ -3,7 +3,7 @@ description: Advances in Neural Information Processing Systems (NeurIPS) 2022
 buttons:
   Paper: 'https://arxiv.org/abs/2210.08607'
   Video: ''
-  Sldies: 'assets/slides.pdf'
+  Slides: 'assets/slides.pdf'
   Open Reveiw: 'https://openreview.net/forum?id=F_9w7Wl78IH'
   Cite: '#citation'
   Authors: '#authors'
