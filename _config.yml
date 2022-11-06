@@ -4,7 +4,7 @@ buttons:
   Paper: 'https://arxiv.org/abs/2210.08607'
   Video: ''
   Slides: 'assets/slides.pdf'
-  Open Reveiw: 'https://openreview.net/forum?id=F_9w7Wl78IH'
+  Open Review: 'https://openreview.net/forum?id=F_9w7Wl78IH'
   Cite: '#citation'
   Authors: '#authors'
 google_analytics: ''
